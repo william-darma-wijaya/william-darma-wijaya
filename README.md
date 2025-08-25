@@ -1,4 +1,4 @@
-### Hi, I'm William Darma Wijaya 👋
+## Hi, I'm William Darma Wijaya 👋
 
 I'm a **Data Science student** and a self-driven **Full-Stack Developer** from Indonesia 🇮🇩, with a passion for building **robust applications** and extracting meaningful **insights from data**. I thrive on challenges and I'm always eager to learn new things.
 
@@ -6,7 +6,7 @@ I'm a **Data Science student** and a self-driven **Full-Stack Developer** from I
 
 ---
 
-
+## 👨‍💻 About Me
 - 🔭 **I’m currently working on:** retails data warehouse
 - 🌱 **I’m currently learning:** ETL pipeline for data warehousing
 - 💬 **Ask me about:** `Next.js`, `FastAPI`, `Go`, `Flutter`, and anything related to **data analysis & AI**!
@@ -16,7 +16,7 @@ I'm a **Data Science student** and a self-driven **Full-Stack Developer** from I
 
 ---
 
-### 💻 My Tech Stack
+## 💻 My Tech Stack
 
 💻 Languages
 
@@ -40,6 +40,6 @@ I'm a **Data Science student** and a self-driven **Full-Stack Developer** from I
 
 ---
 
-### 🔥 My Contribution Streak
+## 🔥 My Contribution Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=william-darma-wijaya&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
