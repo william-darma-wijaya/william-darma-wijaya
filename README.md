@@ -16,25 +16,25 @@ I'm a **Data Science student** and a self-driven **Full-Stack Developer** from I
 
 ---
 
-## 💻 My Tech Stack
+## 🔧 My Tech Stack
 
-💻 Languages
+### 💻 Languages
 
 `Python` | `JavaScript` | `TypeScript` | `SQL` | `Go`
 
-🌐 Web Development
+### 🌐 Web Development
 
 `Next.js` | `React` | `TailwindCSS` | `FastAPI`
 
-📱 Mobile Development
+### 📱 Mobile Development
 
 `Flutter`
 
-🗄️ Data & Cloud
+### 🗄️ Data & Cloud
 
 `Databricks` | `Delta Lake` | `ETL Pipeline` | `PostgreSQL` | `MySQL`
 
-🤖 AI/ML
+### 🤖 AI/ML
 
 `TensorFlow` | `Scikit-learn` | `CNN` | `LLMs` | `LangChain` | `RAG`
 
